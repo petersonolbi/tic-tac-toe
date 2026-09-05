@@ -1,4 +1,4 @@
-package com.github.olbiwan.tictactoe;
+package com.github.tictactoe;
 
 import lombok.AllArgsConstructor;
 import lombok.experimental.ExtensionMethod;

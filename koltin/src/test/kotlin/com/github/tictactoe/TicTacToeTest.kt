@@ -1,4 +1,4 @@
-package com.github.olbiwan.tictactoe
+package com.github.tictactoe
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

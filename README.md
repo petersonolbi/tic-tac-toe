@@ -4,7 +4,7 @@
 
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-blue?logo=eclipseide)](https://eclipseide.org)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea)
-
+[![License](https://img.shields.io/github/license/petersonolbi/tic-tac-toe)](LICENSE)
 [![Java](https://github.com/petersonolbi/tic-tac-toe/actions/workflows/build-java.yml/badge.svg?branch=main)](https://github.com/petersonolbi/tic-tac-toe/actions/workflows/build-java.yml)
 [![Kotlin](https://github.com/petersonolbi/tic-tac-toe/actions/workflows/build-kotlin.yml/badge.svg?branch=main)](https://github.com/petersonolbi/tic-tac-toe/actions/workflows/build-kotlin.yml)
 [![Node.js](https://github.com/petersonolbi/tic-tac-toe/actions/workflows/build-nodejs.yml/badge.svg?branch=main)](https://github.com/petersonolbi/tic-tac-toe/actions/workflows/build-nodejs.yml)

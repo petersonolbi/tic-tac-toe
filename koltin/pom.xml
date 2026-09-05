@@ -4,9 +4,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>br.com.olbiwan</groupId>
+    <groupId>com.github</groupId>
     <artifactId>tictactoe-kotlin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <kotlin.version>1.8.22</kotlin.version>

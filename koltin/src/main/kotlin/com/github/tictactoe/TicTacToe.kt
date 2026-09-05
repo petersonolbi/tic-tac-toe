@@ -1,4 +1,4 @@
-package com.github.olbiwan.tictactoe
+package com.github.tictactoe
 
 import org.apache.commons.lang3.StringUtils.SPACE
 import java.awt.Point
