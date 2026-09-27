@@ -31,9 +31,7 @@ public class TicTacToe {
     private enum Player { X, O }
 
     public static void main(String[] args) {
-        try(final var scanner = new Scanner(System.in)) {
-            new TicTacToe(scanner::next, System.out::print).start();
-        }
+        new TicTacToe(new Scanner(System.in)::next, System.out::print).start(); // Do not close System.in; closing Scanner would close it.
     }
 
     public void start() {
